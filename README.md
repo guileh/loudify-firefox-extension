@@ -8,10 +8,10 @@ The extension utilizes the powerful Web Audio API to create a gain node (GainNod
 
 Key Features:
 
-    Boost the volume of videos with low audio output
-    Enhance audio clarity and sharpness while watching videos
-    Compatible with videos on various websites
-    Easy to use: Simply click the extension button, and the audio is amplified
+- Boost the volume of videos with low audio output
+- Enhance audio clarity and sharpness while watching videos
+- Compatible with videos on various websites
+- Easy to use: Simply click the extension button, and the audio is amplified
 
 Enjoy an enhanced audio experience in your favorite videos with the "Video Audio Booster." Never miss out on important details due to low audio again. Try it now and listen to every sound with clarity!
 
